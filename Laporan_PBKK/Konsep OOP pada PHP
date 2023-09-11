@@ -1,0 +1,20 @@
+Konsep OOP (Object-Oriented Programming) pada PHP adalah pendekatan pemrograman yang berfokus pada objek sebagai unit dasar dalam pengembangan aplikasi. 
+Dalam OOP, objek merupakan representasi konkret dari entitas dalam dunia nyata yang memiliki atribut (data) dan metode (fungsi) yang dapat digunakan untuk 
+berinteraksi dengan objek lainnya. PHP mendukung OOP dengan berbagai fitur seperti class, inheritance, encapsulation, dan polymorphism.
+
+Class merupakan blueprint atau cetak biru yang digunakan untuk menciptakan objek. Dalam PHP, kita dapat mendefinisikan class dengan menggunakan kata kunci 
+"class". Setiap class dapat memiliki properti (atribut) yang merepresentasikan data yang terkait dengan objek tersebut, dan metode (fungsi) yang digunakan 
+untuk melakukan operasi pada objek tersebut.
+
+Inheritance (pewarisan) memungkinkan kita untuk membuat class baru yang mewarisi sifat dan metode dari class yang sudah ada. Ini memungkinkan untuk 
+mengorganisir kode dengan lebih baik dan menerapkan konsep "parent-child" dalam hierarki class.
+
+Encapsulation (enkapsulasi) adalah konsep yang mengizinkan kita untuk menyembunyikan rincian implementasi internal dari sebuah objek dan hanya memberikan 
+akses terbatas ke atribut dan metode yang relevan. Ini membantu dalam pengembangan yang lebih aman dan modular.
+
+Polymorphism memungkinkan objek dari class yang berbeda untuk merespons metode dengan cara yang berbeda, tergantung pada implementasi di class masing-masing. 
+Hal ini memungkinkan untuk membuat kode yang lebih fleksibel dan dapat digunakan kembali.
+
+Dengan menggunakan konsep-konsep OOP ini, PHP memungkinkan pengembang untuk mengorganisir kode mereka dengan lebih baik, meningkatkan keamanan dan 
+modularitas, serta memudahkan pengembangan dan pemeliharaan aplikasi yang kompleks. Ini adalah pendekatan yang populer dalam pengembangan web 
+dengan PHP dan membantu dalam membangun aplikasi yang skalabel dan mudah dikelola.
